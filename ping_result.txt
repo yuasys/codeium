@@ -1,0 +1,9 @@
+PING 182.236.10.243 (182.236.10.243): 56 data bytes
+64 bytes from 182.236.10.243: icmp_seq=0 ttl=55 time=29.270 ms
+64 bytes from 182.236.10.243: icmp_seq=1 ttl=55 time=22.546 ms
+64 bytes from 182.236.10.243: icmp_seq=2 ttl=55 time=24.315 ms
+64 bytes from 182.236.10.243: icmp_seq=3 ttl=55 time=26.989 ms
+
+--- 182.236.10.243 ping statistics ---
+4 packets transmitted, 4 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 22.546/25.780/29.270/2.562 ms
